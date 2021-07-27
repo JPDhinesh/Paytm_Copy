@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,200&display=swap');
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    /* font-family: 'Poppins', sans-serif; */
+}
+
+.navbar-nav li {
+    margin: 5px 10px;
+}
+
+.navbar-nav li .menu-1 {
+    width: 200px;
+    height: 160px;
+}
+
+.navbar-nav li .menu-2 {
+    width: 60px;
+    height: 80px;
+}
+
+#navbarDropdown {
+    color: black;
+}
+
+.navbar .login-button {
+    background-color: #061d95;
+    color: white;
+    text-decoration: none;
+    padding: 3px 10px;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+
+.greeting-title {
+    font-size: 23px;
+    color: gray;
+}
+
+.greeting-content {
+    font-size: 38px;
+    font-weight: 700;
+}
+
+#paytm-content .btn {
+    background-color: #061d95;
+    color: white;
+}
